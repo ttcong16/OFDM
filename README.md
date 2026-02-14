@@ -6,7 +6,7 @@
 ## 🔧 Getting Started  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/marwyp/WaveformAcademy.git](https://github.com/ttcong16/OFDM.git
+   git clone https://github.com/ttcong16/OFDM.git
 2. Open MATLAB and navigate to the cloned folder.
 3. Run the scripts inside the relevant topic folder.
 
